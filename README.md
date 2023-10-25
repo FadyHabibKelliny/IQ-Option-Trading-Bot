@@ -27,7 +27,7 @@ source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 To use the script to automate trading on IQ Option, follow these instructions:
 
 Replace the placeholders in the script with your IQ Option email and password.
