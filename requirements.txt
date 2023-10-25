@@ -1,0 +1,6 @@
+# Example requirements.txt
+numpy==1.20.3
+pandas==1.3.3
+requests==2.26.0
+talib==0.4.0
+iqoptionapi==6.6.2
